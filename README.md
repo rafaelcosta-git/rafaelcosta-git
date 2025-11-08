@@ -22,7 +22,8 @@
 ---
 
 ### 🌐 Onde me encontrar
-[LinkedIn](https://www.linkedin.com/in/rafael-costa-950a80321/?trk=opento_sprofile_topcard)
-[Email] ([https://img.shields.io/badge/Email-red?logo=gmail](https://mail.google.com/mail/u/0/#inbox))](mingosrafael24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rafael-costa-950a80321/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mingosrafael24@gmail.com)
+
 
  “Disciplina e curiosidade são as minhas ferramentas diárias.”
