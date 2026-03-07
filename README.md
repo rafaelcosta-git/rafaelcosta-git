@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafael Costa
 
-💻 **Desenvolvedor Full Stack em formação**  
+💻 **Desenvolvedor Full Stack**  
 🎯 Atualmente a desenvolver projectos em JavaScript, PHP, MySQL e integração de sistemas  
 🚀 Gosto de transformar ideias em projetos práticos
 
