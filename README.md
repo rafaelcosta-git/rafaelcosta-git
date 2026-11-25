@@ -1,150 +1,65 @@
-# 👋 Hi, I'm Rafael Costa
+# Hi, I'm Rafael Costa
 
-### Full Stack Developer | Web3 & Blockchain Enthusiast
+### Full-Stack Software Engineer | Web3 & AI
 
-I'm a Full Stack Developer passionate about building real-world applications and exploring emerging technologies such as Web3, Blockchain and Artificial Intelligence.
+I build full-stack web applications, integrate REST APIs, and develop practical solutions across **Web**, **Web3**, and **AI**, with a strong focus on debugging, troubleshooting, and system reliability.
 
-My focus is on creating scalable web applications, integrating APIs, working with databases and developing blockchain-based solutions through hands-on projects.
-
-Recently, I completed a Postgraduate Program in Web3, Blockchain and AI while continuing to strengthen my skills in modern web development.
+Based in **Lisbon, Portugal** · Fluent in **Portuguese (Native)**, **English (C1)**, and **Spanish (B2)**.
 
 ---
 
-## 🚀 Tech Stack
+## Recent Experience
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-
-### Backend
-
-* Node.js
-* PHP
-* MySQL
-* REST APIs
-
-### Blockchain / Web3
-
-* Solidity
-* Smart Contracts
-* Wagmi
-* Web3.js
-* MetaMask
-* Frontend ↔ Blockchain Integration
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Remix IDE
-* Vite
-* n8n
+- **Software Engineering Intern — Frontend @ Outgoing**  
+  Contributed to frontend product development in a ticketing startup environment, collaborating on user-facing features, debugging, and UI reliability. *(Private codebase)*
+- **Frontend Contributor — Passport Kit Node (ETHGlobal Lisbon 2026)**  
+  Built frontend components for a Web3 hackathon project focused on decentralized identity and developer tooling.  
+  Public Showcase: [ETHGlobal Lisbon 2026 — Passport Kit Node](https://ethglobal.com/showcase/passport-kit-node-kq8e9)
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🗳️ Web3 Voting DApp
-
-A decentralized voting application built on blockchain technology.
-
-**Key Features**
-
-* Smart contracts developed in Solidity
-* MetaMask wallet integration
-* On-chain vote registration
-* Frontend-to-blockchain communication using Wagmi and Web3.js
-
-**Tech Stack**
-
-* Solidity
-* React
-* TypeScript
-* Wagmi
-* Web3.js
-* MetaMask
-
-🔗 Repository:
-https://github.com/rafaelcosta-git/web3-voting-dapp
+- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend & Data:** PHP, Node.js, MySQL, REST APIs, SQL
+- **Web3 & Blockchain:** Solidity, Wagmi, Viem, Web3.js, MetaMask
+- **Tools & Practices:** Git, GitHub, Vite, VS Code, Remix IDE, n8n, Debugging & Troubleshooting
 
 ---
 
-### 🤖 BotCripto – Crypto Trading Bot
+## Featured Projects
 
-Automated cryptocurrency trading bot developed using Binance Testnet APIs.
+### [Web3 Voting DApp](https://github.com/rafaelcosta-git/web3-voting-dapp)
+Decentralized on-chain voting application deployed on BNB Smart Chain Testnet.
+- **Stack:** React 18, TypeScript, Wagmi, Viem, Solidity, MetaMask
+- **Highlights:** Wallet authentication, smart contract state synchronization, and on-chain vote submission.
 
-**Key Features**
+### [Full-Stack E-Commerce & Ticketing Platform (Coldplay Fanpage)](https://github.com/rafaelcosta-git/coldplay-fanpage)
+Full-stack web application featuring user authentication, product store, shopping cart, event ticketing, checkout, and an admin management panel.
+- **Stack:** PHP 8, MySQL, HTML5, CSS3, Bootstrap 5, JavaScript
+- **Highlights:** Relational database design, session-based auth, stock updates, and full CRUD admin controls.
 
-* Real-time market monitoring
-* Automated buy and sell execution
-* Trading signals based on SMA strategy
-* REST API integration
+### [BotCripto — Automated Crypto Trading Bot](https://github.com/rafaelcosta-git/BotCripto)
+Automated BTC/USDT trading bot using the Binance Testnet REST API and a 21-period Simple Moving Average (SMA) strategy.
+- **Stack:** Node.js, JavaScript, Axios, Crypto (HMAC-SHA256), dotenv
+- **Highlights:** Real-time market polling, signed order requests, and environment-based credential isolation.
 
-**Tech Stack**
-
-* JavaScript
-* Node.js
-* Binance API
-
-🔗 Repository:
-https://github.com/rafaelcosta-git/BotCripto
-
----
-
-### 🛒 E-commerce Platform
-
-Full Stack e-commerce application with authentication, product management and order handling.
-
-**Key Features**
-
-* User registration and authentication
-* Product catalog management
-* Order management system
-* Backend integration with MySQL database
-
-**Tech Stack**
-
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+### [Developer Portfolio](https://github.com/rafaelcosta-git/rafaelcostaweb3)
+Personal portfolio web application showcasing projects, skills, and background.
+- **Live Site:** [rafaelcostaweb3.lovable.app](https://rafaelcostaweb3.lovable.app)
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
 
 ---
 
-## 📚 Currently Exploring
+## Education
 
-* Advanced React Patterns
-* Backend Architecture
-* Smart Contract Development
-* Blockchain Infrastructure
-* AI-Powered Applications
-* Web3 Ecosystems
+- **Specialisation Programme in Web3, Blockchain and Artificial Intelligence** — Universidade Europeia / IPAM (2025–2026)
+- **Full-Stack Web Development** — Master D (2024–2026)
 
 ---
 
-## 🎯 Career Goal
+## Contact
 
-I'm currently looking for opportunities as a Junior Developer, Full Stack Developer or Web3 Developer where I can continue learning, contribute to meaningful projects and grow alongside experienced teams.
-
----
-
-## 📫 Contact
-
-📧 Email:
-[mingosrafael24@gmail.com](mailto:mingosrafael24@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/rafael-costa-950a80321
-
-🌐 Portfolio:
-https://rafaelcostaweb3.lovable.app
-
----
-
-💡 Building, learning and improving every day.
+- **Email:** [mingosrafael24@gmail.com](mailto:mingosrafael24@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rafael-costa-950a80321](https://www.linkedin.com/in/rafael-costa-950a80321)
+- **Portfolio:** [rafaelcostaweb3.lovable.app](https://rafaelcostaweb3.lovable.app)
